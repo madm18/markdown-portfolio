@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- [ ] Traveling
+- [ ] Being with friends
+- [ ] Being outdoors
+- [ ] working out 
+- [ ] decorating and designing 
