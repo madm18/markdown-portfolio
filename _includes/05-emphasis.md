@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*SQL*, **Github**, Programming 1,2, and 3, *Salesforce*, **Data Backup**
